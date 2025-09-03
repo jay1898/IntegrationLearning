@@ -5,5 +5,8 @@ global class AccessibilityProjectBilling{
 
          //If response is ok set Accessibility Project Status = Complete
      String a = 'jay';
+     String b = 'kumar';
+     String c = a+b;
+     System.debug('Full Name: '+c);
     }
 }
