@@ -1,6 +1,6 @@
 @isTest
 public class WellnessJourneyRewardsBatchTest {
-
+    //Last Change 5 commit
     @testSetup
     static void setupTestData() {
         // Create a test user to own the records
