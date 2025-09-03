@@ -1,5 +1,5 @@
 public class RewardsCalloutService{
-    
+    //Callout Rest
     public static Integer submitUsersForRewardCallout(String jsonBody) {
         HttpRequest req = new HttpRequest();
         //Set Endpoint from Named Credential
